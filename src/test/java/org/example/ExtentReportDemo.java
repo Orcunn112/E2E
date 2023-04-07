@@ -11,7 +11,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
-public class ExtentReportDemo {
+public class ExtentReportDemo {//
     ///
 
     public WebDriver driver;
